@@ -7,4 +7,5 @@
 /public/bundles/
 /var/
 /vendor/
+/mac
 ###< symfony/framework-bundle ###
